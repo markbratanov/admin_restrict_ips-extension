@@ -1,0 +1,9 @@
+{
+    "name": "markbratanov/admin_restrict_ips-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Markbratanov\\AdminRestrictIpsExtension\\": "src/"
+        }
+    }
+}
